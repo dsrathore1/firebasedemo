@@ -1,4 +1,4 @@
-package com.example.firebasedemo
+package com.example.demo
 
 import io.flutter.embedding.android.FlutterActivity
 

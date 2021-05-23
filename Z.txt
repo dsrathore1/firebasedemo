@@ -1,2 +1,0 @@
-keytool -list -v \
--alias androiddebugkey -keystore dsrathorebsw1234@gmail.com\.android\debug.keystore
