@@ -28,6 +28,15 @@ class _HomeState extends State<Home> {
           ),
         ),
       ),
+      body: Center(
+        child: Text(
+          "Welcome",
+          style: TextStyle(
+            color: Colors.black,
+            fontSize: 40,
+          ),
+        ),
+      ),
     );
   }
 }
